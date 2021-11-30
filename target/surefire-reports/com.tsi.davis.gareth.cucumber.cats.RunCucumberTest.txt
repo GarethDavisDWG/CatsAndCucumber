@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tsi.davis.gareth.cucumber.cats.RunCucumberTest
+-------------------------------------------------------------------------------
+Tests run: 21, Failures: 0, Errors: 0, Skipped: 18, Time elapsed: 0.649 sec
